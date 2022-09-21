@@ -2,5 +2,5 @@
 
 
 ```sh
-git clone https://github.com/Tech-Phantomss/CRUD_app_demo.git
+git clone https://github.com/shreyan-haldankar/Flask-ToDo-App.git
 ```
